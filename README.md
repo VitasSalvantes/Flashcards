@@ -31,10 +31,6 @@ Home page:
 
 ![](/screenshots/home.png)
 
-After click on the "Upper Case" button:
-
-![](/screenshots/after_click.png)
-
 ## Technologies
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
