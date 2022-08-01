@@ -21,7 +21,7 @@ and the answer on the other. You can choose any subject you want for your flashc
 ## How it works
 
 This is the "Flashcards" project implementation. Read more about the project
-on [JetBrains Academy](https://hyperskill.org/projects/193).
+on [JetBrains Academy](https://hyperskill.org/projects/115?track=5).
 
 ## Screenshots
 
@@ -55,10 +55,10 @@ Development of the project began on **August 1, 2022**.
 
 ## Project statistics
 
-[![wakatime](https://wakatime.com/badge/github/VitasSalvantes/Flashcards.svg)](https://wakatime.com/badge/github/VitasSalvantes/Case-Converter)
+[![wakatime](https://wakatime.com/badge/github/VitasSalvantes/Flashcards.svg)](https://wakatime.com/badge/github/VitasSalvantes/Flashcards)
 
 See more
-on [WakaTime](https://wakatime.com/@VitasSalvantes/projects/pjvpzyqaxz).
+on [WakaTime](https://wakatime.com/@VitasSalvantes/projects/rlwgckbhnq).
 
 ## How to use
 
