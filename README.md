@@ -1,6 +1,6 @@
 # Flashcards
 
-![current version](https://img.shields.io/badge/current_version-1.0.0-green)
+![current version](https://img.shields.io/badge/current_version-1.1.0-green)
 [![GitHub license](https://img.shields.io/github/license/VitasSalvantes/Flashcards)](https://github.com/VitasSalvantes/Flashcards/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/VitasSalvantes/Flashcards)](https://github.com/VitasSalvantes/Flashcards/issues)
 
@@ -25,7 +25,7 @@ on [JetBrains Academy](https://hyperskill.org/projects/115?track=5).
 
 ## Screenshots
 
-*All screenshots are relevant for version 1.0.0*
+*All screenshots are relevant for version 1.1.0*
 
 Home page:
 
